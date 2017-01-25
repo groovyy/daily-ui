@@ -2,4 +2,4 @@
 
 Work in progress.
 
-Inspired by http://www.dailyui.co/
+Inspired by http://www.dailyui.co
