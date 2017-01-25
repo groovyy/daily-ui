@@ -1,1 +1,1 @@
-# daily-ui
+# Daily UI
